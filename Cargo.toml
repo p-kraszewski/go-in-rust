@@ -1,0 +1,7 @@
+[package]
+name = "pakr-gorust"
+version = "0.1.0"
+authors = ["Paweł Kraszewski <root+CratesIO@linuxpedia.pl>"]
+edition = "2018"
+
+[dependencies]
